@@ -1,0 +1,15 @@
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Epoll/Epoll/bin/Debug/net9.0/Epoll
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Epoll/Epoll/bin/Debug/net9.0/Epoll.deps.json
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Epoll/Epoll/bin/Debug/net9.0/Epoll.runtimeconfig.json
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Epoll/Epoll/bin/Debug/net9.0/Epoll.dll
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Epoll/Epoll/bin/Debug/net9.0/Epoll.pdb
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Epoll/Epoll/obj/Debug/net9.0/Epoll.GeneratedMSBuildEditorConfig.editorconfig
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Epoll/Epoll/obj/Debug/net9.0/Epoll.AssemblyInfoInputs.cache
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Epoll/Epoll/obj/Debug/net9.0/Epoll.AssemblyInfo.cs
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Epoll/Epoll/obj/Debug/net9.0/Epoll.csproj.CoreCompileInputs.cache
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Epoll/Epoll/obj/Debug/net9.0/Epoll.sourcelink.json
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Epoll/Epoll/obj/Debug/net9.0/Epoll.dll
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Epoll/Epoll/obj/Debug/net9.0/refint/Epoll.dll
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Epoll/Epoll/obj/Debug/net9.0/Epoll.pdb
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Epoll/Epoll/obj/Debug/net9.0/Epoll.genruntimeconfig.cache
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Epoll/Epoll/obj/Debug/net9.0/ref/Epoll.dll

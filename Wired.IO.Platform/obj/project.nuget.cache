@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9DOijETFn+Q=",
+  "success": true,
+  "projectFilePath": "/home/diogo/Desktop/Repos/Wired.IO.Platform/Wired.IO.Platform/Wired.IO.Platform.csproj",
+  "expectedPackageFiles": [
+    "/home/diogo/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/9.0.9/microsoft.netcore.app.runtime.linux-x64.9.0.9.nupkg.sha512",
+    "/home/diogo/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/9.0.9/microsoft.aspnetcore.app.runtime.linux-x64.9.0.9.nupkg.sha512",
+    "/home/diogo/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.9/microsoft.netcore.app.host.linux-x64.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

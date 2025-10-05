@@ -1,0 +1,1 @@
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Wired.IO.Platform/Wired.IO.Platform/bin/Release/net9.0/linux-x64/publish/Wired.IO.Platform

@@ -1,0 +1,15 @@
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Wired.IO.Platform/Wired.IO.Platform/bin/Debug/net9.0/Wired.IO.Platform
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Wired.IO.Platform/Wired.IO.Platform/bin/Debug/net9.0/Wired.IO.Platform.deps.json
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Wired.IO.Platform/Wired.IO.Platform/bin/Debug/net9.0/Wired.IO.Platform.runtimeconfig.json
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Wired.IO.Platform/Wired.IO.Platform/bin/Debug/net9.0/Wired.IO.Platform.dll
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Wired.IO.Platform/Wired.IO.Platform/bin/Debug/net9.0/Wired.IO.Platform.pdb
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Wired.IO.Platform/Wired.IO.Platform/obj/Debug/net9.0/Wired.IO.Platform.GeneratedMSBuildEditorConfig.editorconfig
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Wired.IO.Platform/Wired.IO.Platform/obj/Debug/net9.0/Wired.IO.Platform.AssemblyInfoInputs.cache
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Wired.IO.Platform/Wired.IO.Platform/obj/Debug/net9.0/Wired.IO.Platform.AssemblyInfo.cs
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Wired.IO.Platform/Wired.IO.Platform/obj/Debug/net9.0/Wired.IO.Platform.csproj.CoreCompileInputs.cache
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Wired.IO.Platform/Wired.IO.Platform/obj/Debug/net9.0/Wired.IO.Platform.sourcelink.json
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Wired.IO.Platform/Wired.IO.Platform/obj/Debug/net9.0/Wired.IO.Platform.dll
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Wired.IO.Platform/Wired.IO.Platform/obj/Debug/net9.0/refint/Wired.IO.Platform.dll
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Wired.IO.Platform/Wired.IO.Platform/obj/Debug/net9.0/Wired.IO.Platform.pdb
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Wired.IO.Platform/Wired.IO.Platform/obj/Debug/net9.0/Wired.IO.Platform.genruntimeconfig.cache
+/home/diogo/Desktop/Repos/Wired.IO.Platform/Wired.IO.Platform/Wired.IO.Platform/obj/Debug/net9.0/ref/Wired.IO.Platform.dll
